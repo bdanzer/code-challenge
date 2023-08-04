@@ -11,9 +11,9 @@ Attempted this pretty cool code challenge
 
 Nice to haves but not necessary!
 
-(Extra Credit) Place a delete button in the popup created in Step 2 that removes the event when clicked.
-(Extra Credit) filter out overlapping events
-(Extra Credit) Get creative!
+- (Extra Credit) Place a delete button in the popup created in Step 2 that removes the event when clicked.
+- (Extra Credit) filter out overlapping events
+- (Extra Credit) Get creative!
 
 # Deployment
 
